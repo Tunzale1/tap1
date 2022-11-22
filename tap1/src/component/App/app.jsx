@@ -1,7 +1,7 @@
 const App = ()=>{
     return (
         <div>
-  <h3>Tunzala</h3>
+  <h3 className="ad">Tunzala</h3>
   <p>Now I can create component</p>
 </div>
     )
